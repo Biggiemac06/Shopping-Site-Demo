@@ -1,0 +1,9 @@
+I created a user interface to simulate a page where an admin can 
+add, edit, or remove products in the product catalog.  Then you 
+can switch to a page which simulates the shopping page a shopper would see.  
+On the shopping page the user can select the products they want
+by setting the quantity value for the product and then they can hit
+the purchase button.  The purchase button will then allow a user to review
+what they want to buy and they can enter important information to complete 
+their purchase.
+
